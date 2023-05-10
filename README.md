@@ -26,8 +26,6 @@ This application is deployed on Streamlit Cloud.
 **Contributing**
 Contributions are welcome! Please create an issue or open a pull request with your changes.
 
-Feel free to modify this template to better suit your needs or the specific details of your project. Remember to replace "(add your Streamlit Cloud URL here)" with the actual URL of your deployed Streamlit app.
-
 
 
 
